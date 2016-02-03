@@ -1,4 +1,4 @@
-var Hello = require('./components/hello');
+var Hello = require('./components/hello.jsx');
 
 new Hello();
 
