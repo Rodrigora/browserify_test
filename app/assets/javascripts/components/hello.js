@@ -3,7 +3,7 @@
 class Hello {
   constructor() {
     $(window).ready(function() {
-      $('body').append('Hello es6!');
+      $('body').append('Hello es6!!');
     });
   }
 }

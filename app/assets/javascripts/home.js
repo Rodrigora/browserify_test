@@ -1,5 +1,5 @@
-var Hello = require('./components/hello.jsx');
+var Hello = require('./components/hello.js');
 
 new Hello();
 
-console.log('hi');
+console.log('hi 2');
